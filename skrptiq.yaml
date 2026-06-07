@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "a999c6d8-2a69-495a-854a-dd490809af56"
+id: "9bc84136-4031-422a-8fb7-5ee1b671450d"
 name: "take-notes"
 display_name: "Take Notes"
 description: "Core prompt for structuring study notes"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
