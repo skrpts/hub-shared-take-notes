@@ -3,7 +3,7 @@ id: "9bc84136-4031-422a-8fb7-5ee1b671450d"
 name: "take-notes"
 display_name: "Take Notes"
 description: "Core prompt for structuring study notes"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-06-08T18:54:57.021Z"
+  scanned_at: "2026-07-16T14:48:55.928Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
